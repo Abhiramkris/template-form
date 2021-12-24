@@ -277,7 +277,7 @@
       <br><br>
       <button id="sbtn" type="submit">Done!
         <script type="text/javascript">
-          document.getElementById("myButton").onclick = function() {
+          document.getElementById("sbtn").onclick = function() {
             location.href = "www.yoursite.com";
           };
         </script>
